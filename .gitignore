@@ -10,6 +10,13 @@ angular-trial-1/src/**/*.js
 *.js.map
 angular-trial-1/e2e/**/*.js
 angular-trial-1/e2e/**/*.js.map
+angular-trial-2/node_modules
+angular-trial-2/jspm_packages
+angular-trial-2/npm-debug.log
+angular-trial-2/debug.log
+angular-trial-2/src/**/*.js
+angular-trial-2/e2e/**/*.js
+angular-trial-2/e2e/**/*.js.map
 andrea-angular-sources359
 andrea-angular
 andrea-eleoquest-js

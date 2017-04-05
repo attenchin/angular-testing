@@ -1,0 +1,15 @@
+.idea
+angular-trial-1/node_modules
+angular-trial-1/jspm_packages
+angular-trial-1/npm-debug.log
+angular-trial-1/debug.log
+angular-trial-1/src/**/*.js
+!src/systemjs.config.extras.js
+!src/systemjs.config.js
+!src/systemjs-angular-loader.js
+*.js.map
+angular-trial-1/e2e/**/*.js
+angular-trial-1/e2e/**/*.js.map
+andrea-angular-sources359
+andrea-angular
+andrea-eleoquest-js
